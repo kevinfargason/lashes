@@ -1,0 +1,9 @@
+{
+  "name": "TheWoodlandsLashes",
+  "version": "2.0.0",
+  "description": "The Woodlands Lashes version 2",
+  "devDependencies": {
+    "grunt-contrib-compass": "~0.5.0",
+    "grunt-contrib-jshint": "~0.6.4"
+  }
+}
